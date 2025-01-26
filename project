@@ -1,0 +1,121 @@
+<!DOCTYPE html><html><head>
+    <script data-cookieconsent="ignore">
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('consent', 'default', {
+            ad_storage: 'denied',
+            analytics_storage: 'denied',
+            wait_for_update: 500,
+        });
+        gtag('set', 'ads_data_redaction', true);
+    </script>
+    <!-- Google Tag Manager -->
+    <script data-cookieconsent="ignore">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '';f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KBLQ6P6');</script>
+    <!-- End Google Tag Manager -->
+    <script data-cookieconsent="ignore" src="/frontservices/cookie-box/bundle.15b008dd21d1c4875a9b.js" integrity="sha384-a0Tv4zeIof844zqSZZFAIvRJEw0/PStUtUg+OmwbLVuckxOSmPTuqbluFHrPmLuy"></script>
+    <title>Explain Everything Drive</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <meta name="apple-itunes-app" content="app-id=1020339980, app-argument=https://itunes.apple.com/us/app/explain-everything-collaborative/id1020339980?ls=1&amp;mt=8">
+    <meta name="slack-app-id" content="AH4JUHAH4">
+    <script type="text/javascript" src="/frontservices/router/bundle.cfc7bf76b0d59ed9ac90.js" integrity="sha384-HjFCsXF+tgrO44jfmjafZh/Fng6F5QZ5VtQlFQ7RENsZlG7NHmD93OEkszrA5Tqs"></script>
+    <script type="application/javascript">
+        /* safari hack to properly handle :active pseudoclass */
+        document.addEventListener('touchstart', function() {}, false);
+        history && (history.scrollRestoration = "manual");
+        </script>
+    <style>
+        @font-face {
+            font-family: Noto Sans;
+            font-style: normal;
+            font-weight: 400;
+            src: url(https://drive.explaineverything.com/frontservices/static/fonts/NotoSans-Regular.ttf) format("truetype");
+        }
+
+        @font-face {
+            font-family: Noto Sans;
+            font-style: normal;
+            font-weight: 300;
+            src: url(https://drive.explaineverything.com/frontservices/static/fonts/NotoSans-Light.ttf) format("truetype");
+        }
+
+        @font-face {
+            font-family: Noto Sans;
+            font-style: normal;
+            font-weight: 600;
+            src: url(https://drive.explaineverything.com/frontservices/static/fonts/NotoSans-SemiBold.ttf) format("truetype");
+        }
+
+        @font-face {
+            font-family: Noto Sans;
+            font-style: normal;
+            font-weight: 800;
+            src: url(https://drive.explaineverything.com/frontservices/static/fonts/NotoSans-ExtraBold.ttf) format("truetype");
+        }
+
+        body {
+            font-family: 'Noto Sans', sans-serif;
+            background: #3b2e44;
+        }
+    </style>
+    <link rel="stylesheet" href="/frontservices/static/normalize.css" integrity="sha384-ZWS6kyoeq/OvCe8XhS/KXvEWC6ZzB4Er80wNc74lqXtW9saf+g7W5FJFYYdvtkTe">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://drive.explaineverything.com/frontservices/static/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://drive.explaineverything.com/frontservices/static/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://drive.explaineverything.com/frontservices/static/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://drive.explaineverything.com/frontservices/static/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://drive.explaineverything.com/frontservices/static/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://drive.explaineverything.com/frontservices/static/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://drive.explaineverything.com/frontservices/static/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://drive.explaineverything.com/frontservices/static/favicons/apple-touch-icon-152x152.png">
+    <link rel="icon" type="image/png" href="https://drive.explaineverything.com/frontservices/static/favicons/favicon-196x196.png" sizes="196x196">
+    <link rel="icon" type="image/png" href="https://drive.explaineverything.com/frontservices/static/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="https://drive.explaineverything.com/frontservices/static/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://drive.explaineverything.com/frontservices/static/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="https://drive.explaineverything.com/frontservices/static/favicons/favicon-128.png" sizes="128x128">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="https://drive.explaineverything.com/frontservices/static/favicons/mstile-144x144.png">
+    <meta name="msapplication-square70x70logo" content="https://drive.explaineverything.com/frontservices/static/favicons/mstile-70x70.png">
+    <meta name="msapplication-square150x150logo" content="https://drive.explaineverything.com/frontservices/static/favicons/mstile-150x150.png">
+    <meta name="msapplication-wide310x150logo" content="https://drive.explaineverything.com/frontservices/static/favicons/mstile-310x150.png">
+    <meta name="msapplication-square310x310logo" content="https://drive.explaineverything.com/frontservices/static/favicons/mstile-310x310.png">
+    <meta property="twitter:site" content="@explaineverything">
+    <meta property="fb:app_id" content="196338800724904">
+    <meta property="og:site_name" content="Explain Everything">
+    <meta property="og:title" content="Create, Collaborate, Share and Discover">
+    <meta property="twitter:title" content="Create, Collaborate, Share and Discover">
+    <meta property="og:description" content="Explained using the cloud collaboration platform built on the learning technology of tomorrow - Explain Everything.">
+    <meta property="twitter:description" content="Explained using the cloud collaboration platform built on the learning technology of tomorrow - Explain Everything..">
+    <meta property="twitter:image" content="https://drive.explaineverything.com/frontservices/static/img/drive-share.png">
+    <meta property="og:image" content="https://drive.explaineverything.com/frontservices/static/img/drive-share.png">
+    <meta property="og:image:secure_url" content="https://drive.explaineverything.com/frontservices/static/img/drive-share.png">
+    <meta property="twitter:card" content="summary">
+    <meta property="og:type" content="business.business">
+</head>
+<body>
+    <div id="app"></div>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KBLQ6P6"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <script type="text/javascript" data-cookieconsent="ignore">
+        console.log("starting all"); // eslint-disable-line no-console
+        window.router.debug.push('starting timeout');
+        setTimeout(() => {
+            window.router.debug.push('loading drive');
+            window.router.loadPackage('drive');
+            if (location.search.indexOf('mode=embed') < 0) {
+                window.router.loadPackage('maintenanceBox');
+            }
+        }, 0)
+    </script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha384-eEX5kO4tdQpY+eTjDbZNPlMm4QhsK+kosSZtkzp+uZk0L5g0lSzmWXWHzKDoOzA7"></script>
+
+
+</body></html>
